@@ -1,0 +1,19 @@
+{
+  "name": "face-the-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3000d/face-the-music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3000d/face-the-music/issues"
+  },
+  "homepage": "https://github.com/3000d/face-the-music#readme"
+}

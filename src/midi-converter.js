@@ -2,7 +2,7 @@
 // over network
 class midiConverter {
   trigger(match) {
-
+      console.log(match);
   }
 }
 

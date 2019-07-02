@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/3000d/face-the-music#readme",
   "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
     "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "ngrok": "^3.2.1",
     "rtpmidi": "^0.1.9"
   }
 }

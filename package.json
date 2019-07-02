@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/3000d/face-the-music#readme",
   "dependencies": {
-    "dotenv": "^8.0.0"
+    "dotenv": "^8.0.0",
+    "rtpmidi": "^0.1.9"
   }
 }

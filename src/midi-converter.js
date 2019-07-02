@@ -1,9 +1,9 @@
 // convert json data to midi and send
 // over network
-class MidiConverter {
+class midiConverter {
   trigger(match) {
-    console.log(match);
+
   }
 }
 
-module.exports = MidiConverter;
+module.exports = midiConverter;

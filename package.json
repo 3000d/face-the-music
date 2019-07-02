@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/3000d/face-the-music/issues"
   },
-  "homepage": "https://github.com/3000d/face-the-music#readme"
+  "homepage": "https://github.com/3000d/face-the-music#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
 }

